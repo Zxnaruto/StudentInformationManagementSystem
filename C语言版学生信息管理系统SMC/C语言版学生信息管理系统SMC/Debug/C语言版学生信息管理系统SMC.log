@@ -1,0 +1,79 @@
+﻿生成启动时间为 2017/9/6 星期三 上午 12:02:21。
+     1>项目“F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\C语言版学生信息管理系统SMC\C语言版学生信息管理系统SMC.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\C语言版学生信息管理系统SMC.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt student.cpp
+         student.cpp
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(74): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(99): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(177): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(182): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(184): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(187): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(189): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(191): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(208): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(225): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>f:\c++代码\0a每日练习\c语言版学生信息管理系统smc\c语言版学生信息管理系统smc\student.cpp(252): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 参见“scanf”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\Debug\C语言版学生信息管理系统SMC.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C语言版学生信息管理系统SMC.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\Debug\C语言版学生信息管理系统SMC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\Debug\C语言版学生信息管理系统SMC.lib" /MACHINE:X86 "Debug\C语言版学生信息管理系统SMC.exe.embed.manifest.res"
+         Debug\main.obj
+         Debug\menu.obj
+         Debug\print.obj
+         Debug\student.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\C语言版学生信息管理系统SMC.exe.embed.manifest" /manifest "Debug\C语言版学生信息管理系统SMC.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         C语言版学生信息管理系统SMC.vcxproj -> F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\Debug\C语言版学生信息管理系统SMC.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\C语言版学生信息管理系统SMC.unsuccessfulbuild”。
+         正在对“Debug\C语言版学生信息管理系统SMC.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\C++代码\0A每日练习\C语言版学生信息管理系统SMC\C语言版学生信息管理系统SMC\C语言版学生信息管理系统SMC.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78
