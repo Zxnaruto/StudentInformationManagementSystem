@@ -1,4 +1,4 @@
-# FirstUseGitHub
+# StudentInformationManagementSystem
 #### 1.简介：
       这是一个C语言版的学生信息管理系统，里面包括简单的dos页面设计，以及学生信息的插入，查找，保存，读取，删除等功能。
 #### 2.代码：
