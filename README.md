@@ -2,8 +2,10 @@
 #### 1.简介：
       这是一个C语言版的学生信息管理系统，里面包括简单的dos页面设计，以及学生信息的插入，查找，保存，读取，删除等功能。
 #### 2.代码：
-      其中包含4个.h头文件，以及4个.cpp源文件
-      （1）menu.h
+      其中包含4个.h头文件，以及4个.cpp源文件。
+      
+      
+      （1）menu.h
       void  menu();
       void SetHint(const char *s);
       void ModelMenu(const char *s);
@@ -46,6 +48,7 @@
 
      }
      
+     
      (2)student.h
      #include"main.h"
 
@@ -76,6 +79,7 @@
 	   Score score;
      }stu[N];
     
+     
      student.cpp
      
      #include"student.h"
@@ -320,7 +324,9 @@
 		  }
      }
      
-     （3）print.h
+     
+     
+     （3）print.h
      
      #include<stdio.h>
      #include<string.h>
@@ -351,7 +357,9 @@
 	putchar('*');
     }
     
-     （4）main.h
+     
+     
+     （4）main.h
      
      #include<stdio.h>
      #include<string.h>
