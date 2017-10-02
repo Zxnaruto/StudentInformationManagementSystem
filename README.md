@@ -414,7 +414,9 @@
     
     
 #### 3.运行显示：
-![]()
+![](https://github.com/Zxnaruto/StudentInformationManagementSystem/blob/master/image/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C01.png)
+![](https://github.com/Zxnaruto/StudentInformationManagementSystem/blob/master/image/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C02.png)
+![](https://github.com/Zxnaruto/StudentInformationManagementSystem/blob/master/image/%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C03.png)
 
 
 
