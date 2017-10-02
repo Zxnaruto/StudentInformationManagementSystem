@@ -299,7 +299,7 @@
 	fprintf(fp,"序号\t姓名\t\t性别\t年龄\t语文\t数学\t英语\t体育\t总成绩\n");
 	for(i=N;i>0;i--)
 		if(stu[i].age!=0)
-			fprintf(fp,"%s\t%s\t\t%s\t%d\t%.lf\t%.lf\t%.lf\t%.lf\t%.lf\n",stu[i].num,stu[i].name,stu[i].sex,stu[i].age,stu[i].score.Chinese,stu[i].score.Math,stu[i].score.English,stu[i].score.PE,stu[i].score.sum);
+		fprintf(fp,"%s\t%s\t\t%s\t%d\t%.lf\t%.lf\t%.lf\t%.lf\t%.lf\n",stu[i].num,stu[i].name,stu[i].sex,stu[i].age,stu[i].score.Chinese,stu[i].score.Math,stu[i].score.English,stu[i].score.PE,stu[i].score.sum);
 	   fclose(fp);
      }
 
@@ -308,7 +308,7 @@
      {
 	int i;
 	system("cls");
-	ModelMenu("显示全部软件信息");
+	ModelMenu("显示全部学生信息");
 	printf("序号\t姓名\t\t性别\t年龄\t语文\t数学\t英语\t体育\t总成绩\n");
 	for(i=N;i>0;i--)
 		if(stu[i].age!=0)
@@ -414,7 +414,7 @@
     
     
 #### 3.运行显示：
-
+![]()
 
 
 
